@@ -1,0 +1,26 @@
+Tile class which contains:
+
+Variables:
+
+	- Column
+	- Row
+		- Used to calculate the X, Y
+	- TileType
+	- Texture
+
+	- Window properties
+
+Methods:
+	
+	- Getters/Setters
+	- Draw
+
+Tetromino Class which contains:
+
+Variables:
+	
+	- Array with Tiles
+
+Methods:
+
+	- Render (calls draw on children)

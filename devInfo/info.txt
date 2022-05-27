@@ -1,0 +1,3 @@
+
+random shape from an array;
+always check from the bottom left of the shape and sideways.
