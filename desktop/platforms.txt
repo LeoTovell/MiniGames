@@ -1,0 +1,5 @@
+// x y color note
+100 50 ff0000 Block1
+300 100 ff0000 Block2
+500 200 ff0000 Block3
+700 300 ff0000 Block4
